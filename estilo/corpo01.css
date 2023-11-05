@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+
+main {
+    background-color: blue;
+    max-width: 100vw;
+    height: 70vh;
+    margin: 0em auto 0em auto;
+}
