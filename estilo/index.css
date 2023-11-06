@@ -16,6 +16,12 @@ p {
     text-align: center;
 }
 
+header {
+    background-color: red;
+    width: 100%;
+    height: 30%;
+}
+
 .botao {
     background-color: gray;
     color: white;
@@ -28,12 +34,6 @@ p {
     display: inline-block;
     box-shadow: 0.1em 0.1em 0.3em #00000043;
     width: 7em;
-}
-
-header {
-    background-color: red;
-    width: 100%;
-    height: 30%;
 }
 
 .botao:hover {
