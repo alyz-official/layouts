@@ -65,7 +65,7 @@ aside {
     width: 30%;
     height: 100%;
 
-    border-left: 1em solid brown;
+    /*border-left: 1em solid brown;*/
 
     float: right;
 }
