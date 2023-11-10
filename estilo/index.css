@@ -38,7 +38,7 @@ main  p {
 }
 
 header {
-    background-color: var(--cor06);
+    background-color: red;
     width: 100%;
     height: 26%;
     margin: 0em 0em 1em 0em;
