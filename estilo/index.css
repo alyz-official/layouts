@@ -38,7 +38,7 @@ main  p {
 }
 
 header {
-    background-color: red;
+    background-color: var(--cor06);
     width: 100%;
     height: 26%;
     margin: 0em 0em 1em 0em;
@@ -67,7 +67,7 @@ aside {
 
     border-left: 1em solid brown;
 
-    float: left;
+    float: right;
 }
 
 footer {
@@ -75,6 +75,8 @@ footer {
     width: 100%;
     height: 19.5%;
     margin: 1em 0em 1em 0em;
+
+    clear: both;
 }
 
 .botao {
