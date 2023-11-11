@@ -11,10 +11,6 @@
     --sombra01: #00000028;
 }
 
-body {
-    background-color: red;
-}
-
 h1 {
     text-align: center;
     margin: 0.5em;
